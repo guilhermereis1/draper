@@ -627,20 +627,8 @@ Decorated objects implement Global ID by delegating to the object they are decor
 you can pass decorated objects to background jobs, however, the object won't be decorated when it is
 deserialized.
 
-## Contributors
+Guilherme Reis
 
-Draper was conceived by Jeff Casimir and heavily refined by Steve Klabnik and a
-great community of open source
-[contributors](https://github.com/drapergem/draper/contributors).
+* https://www.worldcode.com.br
 
-### Current maintainers
-
-* Cliff Braton (cliff.braton@gmail.com)
-
-### Historical maintainers
-
-* Jeff Casimir (jeff@jumpstartlab.com)
-* Steve Klabnik (steve@jumpstartlab.com)
-* Vasiliy Ermolovich
-* Andrew Haines
-* Sean Linsley
+![alt text](https://res.cloudinary.com/dgxdamqhe/image/upload/v1545168182/logo_wc_png_irc4l2.png)
